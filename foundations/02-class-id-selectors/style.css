@@ -1,0 +1,26 @@
+.one {
+    background-color: lightpink;
+    font-family: verdana, dejavusans, sans-serif;
+}
+
+#one {
+    color: blue;
+    font-size: 36px;
+}
+
+.two {
+    background-color: lightpink;
+    font-family: verdana, dejavusans, sans-serif;
+    font-size: 24px;
+}
+
+#two {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.three {
+    background-color: lightpink;
+    font-family: verdana, dejavusans, sans-serif;
+}
